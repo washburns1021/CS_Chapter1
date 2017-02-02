@@ -10,7 +10,12 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Why does a chicken");
+            Console.WriteLine("cross the street");
+            Console.WriteLine("She sees a guy");
+            Console.WriteLine("She'd like to meet");
+            Console.WriteLine("He uses");
+            Console.WriteLine("Burma-Shave");
         }
     }
 }
