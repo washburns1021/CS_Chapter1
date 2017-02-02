@@ -10,6 +10,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("The best revenge is massive success -Frank Sinatra");
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Quotation\bin\Debug\Quotation.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Quotation\bin\Debug\Quotation.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Quotation\bin\Debug\Quotation.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Quotation\obj\Debug\Quotation.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Quotation\obj\Debug\Quotation.pdb
