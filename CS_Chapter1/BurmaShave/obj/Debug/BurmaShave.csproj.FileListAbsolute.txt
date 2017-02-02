@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\BurmaShave\bin\Debug\BurmaShave.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\BurmaShave\bin\Debug\BurmaShave.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\BurmaShave\obj\Debug\BurmaShave.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\BurmaShave\obj\Debug\BurmaShave.pdb

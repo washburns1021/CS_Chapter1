@@ -10,6 +10,9 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sean Nikolas Washburn");
+            Console.WriteLine("2717 Bushkill street");
+            Console.WriteLine("Easton, Pennsylvania");
         }
     }
 }
